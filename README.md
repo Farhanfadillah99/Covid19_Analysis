@@ -1,0 +1,2 @@
+# Data Science Project: Covid19 Data Analysis in The World & ASEAN
+Covid19 is a pandemic that has spread around the world. Most countries in the world are already infected. The handling of each country is different, in accordance with government policy. This has resulted in a difference in the trend of rising or de-de-smoking cases of covid-19 in different countries. In this case, we will try to dig into covid19 data from one of the available open apis that is https://covid19-api.org/.
